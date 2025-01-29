@@ -32,7 +32,7 @@ const Certificate = ({ ImgSertif }) => {
 							opacity: 1,
 						},
 						"& .hover-content": {
-							transform: "translate(-50%, -50%)",
+							transform: "translate(-50%, -50% )",
 							opacity: 1,
 						},
 						"& .certificate-image": {

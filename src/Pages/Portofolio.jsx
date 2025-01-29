@@ -104,13 +104,32 @@ const techStacks = [
   { icon: "html.svg", language: "HTML" },
   { icon: "css.svg", language: "CSS" },
   { icon: "javascript.svg", language: "JavaScript" },
+  { icon: "typescript.svg", language: "Typescript" },
+  { icon: "php.svg", language: "PHP" },
+  { icon: "c-sharp.svg", language: "C#" },
+  { icon: "python.svg", language: "Python" },
+  { icon: "codeigniter.svg", language: "Codeigniter" },
+  { icon: "laravel.svg", language: "Laravel" },
+  { icon: "git.svg", language: "Git" },
+  { icon: "github.svg", language: "GitHub" },
+  { icon: "docker.svg", language: "Docker" },
+  { icon: "mysql.svg", language: "MySQL" },
+  { icon: "postgresql.svg", language: "PostgreSQL" },
+  { icon: "mongodb.svg", language: "MongoDB" },
+  { icon: "firestore.svg", language: "Firestore" },
+  { icon: "gcp.svg", language: "GCP" },
+  { icon: "alibaba.svg", language: "Alibaba Cloud" },
+  { icon: "azure.svg", language: "Azure" },
+  { icon: "jupyter.svg", language: "Jupyter" },
+  { icon: "tensorflow.svg", language: "TensorFlow" },
+  { icon: "pandas.svg", language: "Pandas" },
   { icon: "tailwind.svg", language: "Tailwind CSS" },
   { icon: "reactjs.svg", language: "ReactJS" },
   { icon: "vite.svg", language: "Vite" },
-  { icon: "nodejs.svg", language: "Node JS" },
   { icon: "bootstrap.svg", language: "Bootstrap" },
+  { icon: "nodejs.svg", language: "Node JS" },
   { icon: "firebase.svg", language: "Firebase" },
-  { icon: "MUI.svg", language: "Material UI" },
+  // { icon: "MUI.svg", language: "Material UI" },
   { icon: "vercel.svg", language: "Vercel" },
   { icon: "SweetAlert.svg", language: "SweetAlert2" },
 ];
@@ -196,7 +215,7 @@ export default function FullWidthTabs() {
           </span>
         </h2>
         <p className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base mt-2">
-          Explore my journey through projects, certifications, and technical expertise. 
+          Explore my journey through projects, certifications, and technical expertise.
           Each section represents a milestone in my continuous learning path.
         </p>
       </div>
